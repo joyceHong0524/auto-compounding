@@ -1,0 +1,16 @@
+{
+    "name": "auto-compounding",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "auto-compounding for lqdr",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "joyce.hong@yourcode.co.kr",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "ethers": "^5.5.4"
+    }
+}
